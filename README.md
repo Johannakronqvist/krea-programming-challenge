@@ -6,10 +6,10 @@ Count the final score of that board.
 
 Submit your answer:
 Verify you score:
-(Final score: <This is the core you should produce>)
+(Final score: <This is the score you should produce>)
 When you think that you solution is complete, you can verify your Final score by sending a POST request to https://customer-api.krea.se/coding-tests/api/squid-game
 
-With the body:z
+With the body:
 {
 "answer": "<your answer>",
 "name": "<your name>"
